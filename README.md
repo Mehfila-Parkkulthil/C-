@@ -15,7 +15,7 @@ int main(){
 
 ## Table of Contents
 |Q.no|Question|Link|
-|:--:|:---:|:---:|
+|:--|:---|:---|
 | 1 |Print Hello World |    |
 | 2 |Print Inverse Right Half Pyramid pattern| |
 | 3 |Print  Right Half Pyramid pattern | |  
