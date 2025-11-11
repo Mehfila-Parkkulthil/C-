@@ -1,5 +1,5 @@
 //Question 19
-//Calculate x=5*(2/2)*3;x=5+2/2*3
+//Calculate x=5*(2/2)*3;
 
 
 #include <stdio.h>

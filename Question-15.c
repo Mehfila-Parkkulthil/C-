@@ -1,5 +1,5 @@
 // Question 15
-// Analyse int a=1.99999 , will converting it into int results as 1 or 2.
+// Analyse int a=1.99999 , will explicit converting it into int results as 1 or 2.
 
 #include <stdio.h>
 int main(){

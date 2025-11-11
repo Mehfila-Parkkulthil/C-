@@ -1,5 +1,5 @@
 //Question 37
-//Create a program to print from 300 - 1000
+//Create a program to print from 300 - 1000 using do while loop
 
 #include <stdio.h>
 int main(){
