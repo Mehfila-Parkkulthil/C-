@@ -53,7 +53,7 @@ int main(){
 | 35 |Print 1-100 using for loop| |
 | 36 |Print from 100-300 using while loop | |
 | 37 |Print from 300 - 1000 using do while loop| |
-| 38 | | |
+| 38 |Print from 1000 -1 using for loop  | |
 | 39 | | |
 | 40 | | |
 | 41 | | |
