@@ -1,6 +1,7 @@
 # C - Language
 
 ## Table of Contents
+
 |Q.no|Question|Link|
 |:--|:---|:---|
 | 1 |Print Hello World | [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-1.c)  |
@@ -13,15 +14,15 @@
 | 8 |Calculate area and perimeter of rectangle|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-8.c)  | 
 | 9 | Find cube of number n| [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-9.c) | 
 | 10 | Calculate cube of number using pow() | [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-10.c)| 
-| 11 |Calculate x= 5 * 2 - 2 * 3; | [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-11.c) | 
+| 11 |Calculate x= 5 * 2 - 2 * 3 | [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-11.c) | 
 | 12 |Analyse int a=1.99999 , will converting it into int results as 1 or 2. |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-12.c)  |
 | 13 |Analyse int a=1.99999 , will converting it into float results as 1 or 2 | [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-13.c) |
 | 14 |Analyse float a=1.99999 , will converting it into float results as 1 or 2.| [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-14.c) |
 | 15 |Analyse int a=1.99999 , will explicit converting it into int results as 1 or 2. |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-15.c)  |
 | 16 | Calculate x=4 + 9 * 10| [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-16.c) |
-| 17 |Calculate x=4 * 3/6 * 2; | [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-17.c) |
-| 18 |Calculate x=5 * 2/ 3 * 2; |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-18.c)  |
-| 19 |Calculate x=5 * (2/2) * 3; | [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-19.c) |
+| 17 |Calculate x=4 * 3/6 * 2 | [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-17.c) |
+| 18 |Calculate x=5 * 2/ 3 * 2 |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-18.c)  |
+| 19 |Calculate x=5 * (2/2) * 3 | [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-19.c) |
 | 20 |Calculate x=5 + 2/2 * 3 |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-20.c)  |
 | 21 |Print 1(true) or 0(false ) for following statements |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-21.c)  |
 | 22 |Check if a number is divisible by 2 or not |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-22.c)  |
@@ -102,7 +103,8 @@
 | 97 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-97.c) |
 | 98 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-98.c) |
 | 99 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-99.c) |
-| 100 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-100.c) |
+| 100 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-100.c)|
+
 ## Syntax
 ```
 #include <stdio.h>
@@ -110,9 +112,11 @@ int main(){
 // statments
 }
 ```
+
 ## History
+
 <p>
-    C is a  mid-level programming language developed by Dennis M. Ritchie at Bell Laboratories in 1972. C is the mother of all programming languages , It was mainly created for UNIX operating system.
-    <br>
-    C is widely used in operating systems, embedded systems, compilers, databases, networking, game engines, and real-time systems for its efficiency to work in low resource environment and hardware-level support. 
+C is a  mid-level programming language developed by Dennis M. Ritchie at Bell Laboratories in 1972. C is the mother of all programming languages , It was mainly created for UNIX operating system.
+<br>
+C is widely used in operating systems, embedded systems, compilers, databases, networking, game engines, and real-time systems for its efficiency to work in low resource environment and hardware-level support. 
 </p>
