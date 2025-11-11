@@ -41,9 +41,9 @@
 | 36 |Print from 100-300 using while loop | [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-36.c)|
 | 37 |Print from 300 - 1000 using do while loop| [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-37.c)|
 | 38 |Print from 1000 -1 using for loop  |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-38.c) |
-| 39 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-39.c) | 
-| 40 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-40.c) | 
-| 41 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-41.c) | 
+| 39 |Print from 0 to n |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-39.c) | 
+| 40 |Print the sum of first n natural numbers  |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-40.c) | 
+| 41 |Print multiplication table of a number |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-41.c) | 
 | 42 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-42.c) | 
 | 43 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-43.c) | 
 | 44 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-44.c) | 
