@@ -1,5 +1,7 @@
 /*Question 45
-Print sum of all the multiples of 3 and 5
+Print sum of all the multiples of 3 and 5 , time constraints 
+1 ≤ T ≤ 10⁵
+1 ≤ N ≤ 10⁹
 */
 
 #include <stdio.h>
