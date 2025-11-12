@@ -45,10 +45,10 @@
 | 39 |Print from 0 to n |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-39.c) | 
 | 40 |Print the sum of first n natural numbers  |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-40.c) | 
 | 41 |Print multiplication table of a number |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-41.c) | 
-| 42 | Keep taking input form user until user enters an odd number|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-42.c) | 
-| 43 | Keep taking numbers as input ,until user enter a number which is multiple of 7 |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-43.c) | 
-| 44 | Print sum of all the multiples of 3 and 5|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-44.c) | 
-| 45 | Print sum of all the multiples of 3 and 5 , time constraints ( 1 ≤ T ≤ 10⁵ , 1 ≤ N ≤ 10⁹ ) |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-45.c) | 
+| 42 |Keep taking input form user until user enters an odd number|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-42.c) | 
+| 43 |Keep taking numbers as input ,until user enter a number which is multiple of 7 |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-43.c) | 
+| 44 |Print sum of all the multiples of 3 and 5|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-44.c) | 
+| 45 |Print sum of all the multiples of 3 and 5 , time constraints ( 1 ≤ T ≤ 10⁵ , 1 ≤ N ≤ 10⁹ )|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-45.c) | 
 | 46 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-46.c) |
 | 47 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-47.c) |
 | 48 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-48.c) |
