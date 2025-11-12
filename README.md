@@ -3,16 +3,16 @@
 ## Table of Contents
 
 |Q.no|Question|Link|
-|:--|:---|:---|
-| 1 |Print Hello World | [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-1.c)  |
-| 2 |Print Inverse Right Half Pyramid pattern|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-2.c)  |
-| 3 |Print  Right Half Pyramid pattern |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-3.c)  |  
-| 4 |Print  Left  Half Pyramid pattern |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-4.c)  | 
-| 5 |Ask age and print their age| [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-5.c) | 
-| 6 |Calculate the area and perimeter of square|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-6.c)  | 
-| 7 |Calculate area and perimeter of circle|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-7.c)  | 
-| 8 |Calculate area and perimeter of rectangle|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-8.c)  | 
-| 9 | Find cube of number n| [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-9.c) | 
+|:--: |:----|:----|
+| 1  |Print Hello World | [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-1.c)  |
+| 2  |Print Inverse Right Half Pyramid pattern|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-2.c)  |
+| 3  |Print  Right Half Pyramid pattern |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-3.c)  |  
+| 4  |Print  Left  Half Pyramid pattern |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-4.c)  | 
+| 5  |Ask age and print their age| [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-5.c) | 
+| 6  |Calculate the area and perimeter of square|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-6.c)  | 
+| 7  |Calculate area and perimeter of circle|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-7.c)  | 
+| 8  |Calculate area and perimeter of rectangle|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-8.c)  | 
+| 9  | Find cube of number n| [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-9.c) | 
 | 10 | Calculate cube of number using pow() | [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-10.c)| 
 | 11 |Calculate x= 5 * 2 - 2 * 3 | [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-11.c) | 
 | 12 |Analyse int a=1.99999 , will converting it into int results as 1 or 2. |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-12.c)  |
